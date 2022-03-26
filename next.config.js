@@ -10,7 +10,7 @@ module.exports = {
   env: {
     'MYSQL_HOST': '190.231.67.172',
     'MYSQL_PORT': '5506',
-    'MYSQL_DATABASE': "stock",
+    'MYSQL_DATABASE': "stock2",
     'MYSQL_USER': "vlongo",
     'MYSQL_PASSWORD': "nokia5800",
   }
